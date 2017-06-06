@@ -1,0 +1,7 @@
+mail-client/mutt notmuch imap smtp smime sasl slang -berkdb
+net-mail/notmuch mutt
+# required by net-mail/notmuch-0.23.3::gentoo[crypt]
+# required by mail-client/mutt-1.7.2::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-libs/gmime-2.6.20-r2 smime

@@ -1,0 +1,3 @@
+# required by net-wireless/aircrack-ng-1.2_rc1-r1::gentoo[airdrop-ng]
+# required by aircrack-ng (argument)
+>=net-wireless/lorcon-0.0_p20150109 python

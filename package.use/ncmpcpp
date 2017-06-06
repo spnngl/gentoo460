@@ -1,0 +1,4 @@
+media-sound/ncmpcpp clock outputs visualizer curl
+# required by media-sound/ncmpcpp-0.7.5::gentoo[unicode]
+# required by ncmpcpp (argument)
+>=dev-libs/boost-1.56.0-r1 icu

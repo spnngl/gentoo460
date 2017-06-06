@@ -1,0 +1,8 @@
+# required by hoogle (argument)
+=dev-haskell/hoogle-5.0.1 ~amd64
+# required by dev-haskell/hoogle-5.0.1::haskell
+# required by hoogle (argument)
+=dev-haskell/js-flot-0.8.3 ~amd64
+# required by dev-haskell/hoogle-5.0.1::haskell
+# required by hoogle (argument)
+=dev-haskell/js-jquery-1.12.4 ~amd64
