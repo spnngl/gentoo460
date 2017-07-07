@@ -13,16 +13,18 @@ app-editors/vim
 app-emulation/docker
 app-misc/ranger
 app-misc/toilet
+app-office/libreoffice-bin
 app-portage/eix
 app-portage/gentoolkit
 app-portage/layman
 app-shells/mksh
 app-text/mupdf
 app-text/qpdf
-app-text/texlive
 app-text/tree
 dev-haskell/haskell-platform
+dev-libs/libgcrypt
 dev-python/backports-lzma
+dev-python/certifi
 dev-python/flake8
 dev-python/ipython
 dev-python/markdown
@@ -32,8 +34,8 @@ dev-python/pandas
 dev-python/psycopg
 dev-python/pytest
 dev-python/virtualenv
-dev-texlive/texlive-fontsextra
 dev-util/android-tools
+games-emulation/dosbox
 mail-client/mutt
 media-gfx/feh
 media-plugins/gst-plugins-meta
@@ -41,7 +43,6 @@ media-sound/alsa-utils
 media-sound/mpd
 media-sound/ncmpcpp
 media-sound/spotify
-media-video/ffmpeg
 media-video/mpv
 net-analyzer/nmap
 net-analyzer/traceroute
@@ -89,6 +90,7 @@ sys-power/acpi
 sys-power/acpid
 sys-power/powertop
 sys-process/htop
+virtual/libudev
 www-client/firefox
 www-client/google-chrome
 www-client/lynx
@@ -97,8 +99,6 @@ x11-apps/mesa-progs
 x11-apps/xsetroot
 x11-base/xorg-server
 x11-base/xorg-x11
-x11-libs/libva
-x11-libs/libva-intel-driver
 x11-misc/dmenu
 x11-misc/redshift
 x11-misc/slim
