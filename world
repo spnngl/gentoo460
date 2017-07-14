@@ -19,7 +19,6 @@ app-portage/gentoolkit
 app-portage/layman
 app-shells/mksh
 app-text/mupdf
-app-text/qpdf
 app-text/tree
 dev-haskell/haskell-platform
 dev-libs/libgcrypt
@@ -51,6 +50,7 @@ net-fs/sshfs
 net-irc/irssi
 net-libs/libmbim
 net-libs/libqmi
+net-mail/offlineimap
 net-misc/dhcpcd
 net-misc/mobile-broadband-provider-info
 net-misc/modemmanager
@@ -79,6 +79,8 @@ sys-apps/systemd
 sys-apps/usbutils
 sys-block/ms-sys
 sys-boot/efibootmgr
+sys-devel/distcc
+sys-devel/gcc
 sys-firmware/intel-microcode
 sys-fs/cryptsetup
 sys-fs/dosfstools

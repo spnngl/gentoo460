@@ -1,1 +1,12 @@
-www-client/firefox -startup-notification hwaccel
+www-client/firefox -startup-notification hwaccel system-icu system-jpeg system-libevent system-libvpx system-sqlite system-harfbuzz
+# required by www-client/firefox-54.0.1::gentoo[system-sqlite]
+# required by @selected
+# required by @world (argument)
+>=dev-db/sqlite-3.17.0 secure-delete
+# required by www-client/firefox-54.0.1::gentoo[system-libvpx]
+# required by @selected
+# required by @world (argument)
+>=media-libs/libvpx-1.5.0 postproc
+
+# required by libreoffice
+media-libs/harfbuzz icu

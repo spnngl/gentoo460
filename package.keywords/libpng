@@ -1,8 +1,0 @@
-# required by dev-java/icedtea-bin-3.3.0::gentoo[-headless-awt,-multilib]
-# required by virtual/jdk-1.8.0-r3::gentoo
-# required by dev-java/fontbox-1.7.1::gentoo
-# required by dev-tex/pdfannotextractor-0.1l-r1::gentoo
-# required by app-text/texlive-2015::gentoo[pdfannotextractor]
-# required by @selected
-# required by @world (argument)
-=media-libs/libpng-1.6.29 ~amd64
