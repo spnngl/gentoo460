@@ -1,4 +1,0 @@
-dev-haskell/* -doc -hoogle -hscolour
-dev-lang/ghc binary
-#dev-haskell/hoogle fetchdb fetchdb-ghc localdb
-#dev-haskell/haskell-platform profile

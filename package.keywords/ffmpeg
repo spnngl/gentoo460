@@ -1,7 +1,0 @@
-#media-video/ffmpeg ~amd64
-#x11-libs/libva-intel-driver ~amd64
-#x11-libs/libva ~amd64
-## required by x11-libs/libva-1.8.2::gentoo[utils]
-## required by @selected
-## required by @world (argument)
-#=media-video/libva-utils-1.8.2 ~amd64
